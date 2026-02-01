@@ -25,4 +25,4 @@ IoT air quality monitoring system using ESP32 microcontrollers, multiple gas sen
 - Solar-powered outdoor deployment
 
 ---
-*Project for Cambridge Computer Science application 2026*
+*Project for Cambridge Computer Science application 2027*
